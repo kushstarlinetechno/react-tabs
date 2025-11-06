@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 const HomeTab = () => {
   const [inputVal, setInputVal] = useState('');
   useEffect(() => {
-    console.log('HomeTab mounted this is working perfectly');
+    console.log('HomeTab mounted this is working perfectly 1');
   }, []);
   return (
     <div>
