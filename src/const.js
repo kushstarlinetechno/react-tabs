@@ -5,7 +5,8 @@ const API_BASE_URL = "https://api.example.com";
 const USER_ROLES = {
   ADMIN: "admin",
   EDITOR: "editor",
-  VIEWER: "viewer"
+  VIEWER: "viewer",
+  DEV: "dev"
 };
 
 const FEATURE_FLAGS = {
