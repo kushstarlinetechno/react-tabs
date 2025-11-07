@@ -3,9 +3,9 @@
 const API_BASE_URL = "https://api.example.com";
 
 const USER_ROLES = {
-  ADMIN: "admin",
-  EDITOR: "editor",
-  VIEWER: "viewer"
+ADMIN: "admin",
+EDITOR: "editor",
+VIEWER: "viewer"
 };
 
 const FEATURE_FLAGS = {
